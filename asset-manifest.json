@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/World-Cup-2022-Memory-Game/static/css/main.0eb20ce0.css",
-    "main.js": "/World-Cup-2022-Memory-Game/static/js/main.c3524676.js",
+    "main.js": "/World-Cup-2022-Memory-Game/static/js/main.0e09f2a4.js",
     "index.html": "/World-Cup-2022-Memory-Game/index.html",
     "main.0eb20ce0.css.map": "/World-Cup-2022-Memory-Game/static/css/main.0eb20ce0.css.map",
-    "main.c3524676.js.map": "/World-Cup-2022-Memory-Game/static/js/main.c3524676.js.map"
+    "main.0e09f2a4.js.map": "/World-Cup-2022-Memory-Game/static/js/main.0e09f2a4.js.map"
   },
   "entrypoints": [
     "static/css/main.0eb20ce0.css",
-    "static/js/main.c3524676.js"
+    "static/js/main.0e09f2a4.js"
   ]
 }
